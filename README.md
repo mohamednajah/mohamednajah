@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm MOHAMED NAJAH</h1>
 <h3 align="center">A passionate Full Stack developper and a Big Data And Cloud Computing Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/F73nxsM/d73313b8-f0e1-47bc-99c0-be3d77ab8b09.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamednajah&label=Profile%20views&color=0e75b6&style=flat" alt="mohamednajah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamednajah" alt="mohamednajah" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/F73nxsM/d73313b8-f0e1-47bc-99c0-be3d77ab8b09.jpg">
+
 
 - 🔭 I’m currently working on **An innovation project of MY UNIVERSITY**
 
